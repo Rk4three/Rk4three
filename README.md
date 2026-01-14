@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Rion
 
-<!--
-**Rk4three/Rk4three** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | AI Enthusiast | Building Intelligent Applications
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎓 **Education:** Bachelor of Science in Computer Science | Holy Angel University (April 2026)
+- 💼 **Current Role:** Web Developer Intern | La Rose Noire
+- 🔭 **Working On:** AI-powered web applications with real-world impact
+- 🌱 **Learning:** Advanced AI integration, cloud architecture, and scalable system design
+- ⚡ **Fun Fact:** I used to be a professional esports player
+
+---
+
+## 🛠️ Tech Stack
+
+**Tech Stack:**  JavaScript/TypeScript, Python, PHP, React, HTML, CSS
+
+**Styling & Tooling:** Tailwind CSS, Vite, Shadcn/ui
+
+**Databases & Cloud:** PostgreSQL, MySQL, MS SQL, Supabase, DigitalOcean, Vercel, Railway
+
+**Developer Tools:** Git, GitHub, Docker, VS Code, FileZilla
+
+**APIs & Services:** Groq AI, Deepgram
+
+---
+
+## 🤝 Connect With Me
+
+**LinkedIn:** https://linkedin.com/in/rion-kudo
+
+**Portfolio:** https://portfolio-website-dusky-three-34.vercel.app/
+
+**Email:** Rioncal@gmail.com
+
+**Location:** Angeles City, Pampanga, Philippines
+
+---
+
+**⭐️ From [Rk4three](https://github.com/Rk4three)**
