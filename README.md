@@ -36,7 +36,3 @@
 **Email:** Rioncal@gmail.com
 
 **Location:** Angeles City, Pampanga, Philippines
-
----
-
-**⭐️ From [Rk4three](https://github.com/Rk4three)**
