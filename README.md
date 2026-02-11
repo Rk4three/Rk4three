@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Education:** Bachelor of Science in Computer Science | Holy Angel University (April 2026)
-- 💼 **Current Role:** Web Developer Intern | La Rose Noire
+- 💼 **Current Role:** Full-stack Developer Intern | La Rose Noire
 - 🔭 **Working On:** AI-powered web applications with real-world impact
 - 🌱 **Learning:** Advanced AI integration, cloud architecture, and scalable system design
 - ⚡ **Fun Fact:** I used to be a professional esports player
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-**Tech Stack:**  JavaScript/TypeScript, Python, PHP, React, HTML, CSS
+**Tech Stack:**  JavaScript/TypeScript, Node.js, Python, PHP, React, HTML, CSS
 
 **Styling & Tooling:** Tailwind CSS, Vite, Shadcn/ui
 
